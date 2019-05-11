@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 3c9800d4cbd095f47880b8ff61f45673
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Model_foot1
+    100004: Model_foot10
+    100006: Model_foot11
+    100008: Model_foot12
+    100010: Model_foot13
+    100012: Model_foot14
+    100014: Model_foot15
+    100016: Model_foot16
+    100018: Model_foot17
+    100020: Model_foot18
+    100022: Model_foot19
+    100024: Model_foot2
+    100026: Model_foot20
+    100028: Model_foot21
+    100030: Model_foot22
+    100032: Model_foot23
+    100034: Model_foot24
+    100036: Model_foot25
+    100038: Model_foot26
+    100040: Model_foot27
+    100042: Model_foot3
+    100044: Model_foot4
+    100046: Model_foot5
+    100048: Model_foot6
+    100050: Model_foot7
+    100052: Model_foot8
+    100054: Model_foot9
+    400000: //RootNode
+    400002: Model_foot1
+    400004: Model_foot10
+    400006: Model_foot11
+    400008: Model_foot12
+    400010: Model_foot13
+    400012: Model_foot14
+    400014: Model_foot15
+    400016: Model_foot16
+    400018: Model_foot17
+    400020: Model_foot18
+    400022: Model_foot19
+    400024: Model_foot2
+    400026: Model_foot20
+    400028: Model_foot21
+    400030: Model_foot22
+    400032: Model_foot23
+    400034: Model_foot24
+    400036: Model_foot25
+    400038: Model_foot26
+    400040: Model_foot27
+    400042: Model_foot3
+    400044: Model_foot4
+    400046: Model_foot5
+    400048: Model_foot6
+    400050: Model_foot7
+    400052: Model_foot8
+    400054: Model_foot9
+    2100000: color_foot
+    2300000: Model_foot1
+    2300002: Model_foot10
+    2300004: Model_foot11
+    2300006: Model_foot12
+    2300008: Model_foot13
+    2300010: Model_foot14
+    2300012: Model_foot15
+    2300014: Model_foot16
+    2300016: Model_foot17
+    2300018: Model_foot18
+    2300020: Model_foot19
+    2300022: Model_foot2
+    2300024: Model_foot20
+    2300026: Model_foot21
+    2300028: Model_foot22
+    2300030: Model_foot23
+    2300032: Model_foot24
+    2300034: Model_foot25
+    2300036: Model_foot26
+    2300038: Model_foot27
+    2300040: Model_foot3
+    2300042: Model_foot4
+    2300044: Model_foot5
+    2300046: Model_foot6
+    2300048: Model_foot7
+    2300050: Model_foot8
+    2300052: Model_foot9
+    3300000: Model_foot1
+    3300002: Model_foot10
+    3300004: Model_foot11
+    3300006: Model_foot12
+    3300008: Model_foot13
+    3300010: Model_foot14
+    3300012: Model_foot15
+    3300014: Model_foot16
+    3300016: Model_foot17
+    3300018: Model_foot18
+    3300020: Model_foot19
+    3300022: Model_foot2
+    3300024: Model_foot20
+    3300026: Model_foot21
+    3300028: Model_foot22
+    3300030: Model_foot23
+    3300032: Model_foot24
+    3300034: Model_foot25
+    3300036: Model_foot26
+    3300038: Model_foot27
+    3300040: Model_foot3
+    3300042: Model_foot4
+    3300044: Model_foot5
+    3300046: Model_foot6
+    3300048: Model_foot7
+    3300050: Model_foot8
+    3300052: Model_foot9
+    4300000: Model_foot1
+    4300002: Model_foot2
+    4300004: Model_foot3
+    4300006: Model_foot4
+    4300008: Model_foot5
+    4300010: Model_foot6
+    4300012: Model_foot7
+    4300014: Model_foot8
+    4300016: Model_foot9
+    4300018: Model_foot10
+    4300020: Model_foot11
+    4300022: Model_foot12
+    4300024: Model_foot13
+    4300026: Model_foot14
+    4300028: Model_foot15
+    4300030: Model_foot16
+    4300032: Model_foot17
+    4300034: Model_foot18
+    4300036: Model_foot19
+    4300038: Model_foot20
+    4300040: Model_foot21
+    4300042: Model_foot22
+    4300044: Model_foot23
+    4300046: Model_foot24
+    4300048: Model_foot25
+    4300050: Model_foot26
+    4300052: Model_foot27
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
